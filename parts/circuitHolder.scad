@@ -25,7 +25,7 @@ hole2_p=[0,-10];
 
 
 
-use <snaps.scad>;
+use <../tools/snaps.scad>;
 
 
 difference(){
