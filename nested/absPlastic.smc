@@ -463,8 +463,8 @@
   </impAiFile>
   <layer_list>
     <layer process_media = "0" prior = "1" color = "0x00FF0000" visible = "true" id = "0" name = "1" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "20000" begin_power = "10000" laser_way = "15"/>
-    <layer process_media = "0" prior = "2" color = "0x0000FF00" visible = "true" id = "1" name = "2" acc = "0" process = "true" frequency = "0" end_power = "4000" speed = "20000" begin_power = "4000" laser_way = "15"/>
-    <layer process_media = "0" prior = "3" color = "0x000000FF" visible = "true" id = "2" name = "3" acc = "0" process = "true" frequency = "0" end_power = "100" speed = "15000" begin_power = "100" laser_way = "15"/>
+    <layer process_media = "0" prior = "2" color = "0x0000FF00" visible = "true" id = "1" name = "2" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "25000" begin_power = "10000" laser_way = "15"/>
+    <layer process_media = "0" prior = "3" color = "0x000000FF" visible = "true" id = "2" name = "3" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "40000" begin_power = "10000" laser_way = "15"/>
     <layer process_media = "0" prior = "4" color = "0x00800000" visible = "true" id = "3" name = "4" acc = "0" process = "true" frequency = "0" end_power = "100" speed = "15000" begin_power = "100" laser_way = "15"/>
     <layer process_media = "0" prior = "5" color = "0x00008000" visible = "true" id = "4" name = "5" acc = "0" process = "true" frequency = "0" end_power = "100" speed = "15000" begin_power = "100" laser_way = "15"/>
     <layer process_media = "0" prior = "6" color = "0x00000080" visible = "true" id = "5" name = "6" acc = "0" process = "true" frequency = "0" end_power = "100" speed = "15000" begin_power = "100" laser_way = "15"/>
@@ -721,7 +721,7 @@
   </layer_list>
   <group_list>
     <group layer_id = "0" process = "true" type = "10">
-      <array feed_height = "1006296" column_interval = "-4500" row_ymirror = "false" row_interval = "-27000" column_mismatch = "0" row_mismatch = "25000" coord_type = "0" row_xmirror = "false" column_ymirror = "false" column = "2" row = "2" column_xmirror = "false">
+      <array feed_height = "1006296" column_interval = "-4500" row_ymirror = "false" row_interval = "-27000" column_mismatch = "0" row_mismatch = "25000" coord_type = "0" row_xmirror = "false" column_ymirror = "false" column = "1" row = "1" column_xmirror = "false">
         <main/>
         <group>
           <line head_lead_angle = "0.000000" head_lead = "false" layer_id = "1" tail_lead = "false" line_type = "0" auto_angle = "false" lead_method = "0" points = "93543,46824,10000;93588,46166;93588,45507;93543,44849;93453,44196;93317,43551;93137,42916;92913,42295;92648,41692;92342,41108;91996,40546;91612,40010;91192,39502;90737,39024;90252,38577;89737,38166;89193,37792;88626,37456;88150,37216;88150,41703;88060,42558;87794,43374;87530,43832;80553,43832;80289,43374;80023,42558;79933,41703;79933,37218;79749,37302;79170,37619;78615,37974;78085,38367;77584,38796;77114,39258;76676,39752;76274,40275;75909,40824;75582,41397;75296,41992;75052,42603;74851,43232;74692,43871;74580,44522;74511,45177;74488,45836;74511,46496;74580,47151;74692,47802;74851,48441;75052,49070;75296,49681;75582,50276;75909,50849;76274,51398;76676,51921;77114,52415;77584,52877;78085,53306;78615,53699;79170,54054;79749,54371;79933,54455;79933,52890;80023,52036;80289,51219;80553,50762;87530,50762;87794,51219;88060,52036;88150,52890;88150,54457;88626,54217;89193,53881;89737,53507;90252,53096;90737,52649;91192,52171;91612,51663;91996,51127;92342,50565;92648,49981;92913,49378;93137,48757;93317,48122;93453,47477;93543,46824;" work_method = "0" segment_length = "0" drill_time = "0" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "0" head_lead_length = "0" tail_lead_angle = "0.000000"/>
