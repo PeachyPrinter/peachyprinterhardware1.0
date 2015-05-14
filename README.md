@@ -1,6 +1,6 @@
 # peachyprinterhardware1.0
 
-All laser cut parts used in the $100 peachy printer kit are included in this repo.
+All laser cut parts used in the $100 peachy printer kit
 
 The workflow is:
 
