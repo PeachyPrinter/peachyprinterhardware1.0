@@ -7,7 +7,7 @@ nail=1.8/2;
 magnetHold=.35;
 
 wall=1.8;
-IR=20/2-.45+.1;
+IR=9.45;
 OR=IR+wall;
 
 gap=5/2+1;
