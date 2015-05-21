@@ -78,8 +78,8 @@ module Frame(ridge_X=2.3,ridge_Y=.9){
 				translate([-offset,0])square([offset+0.5,14.4]);
 				translate([.5,0]) square([2,2]);
 				translate([.5,14.4-2]) square([2,2]);
-				translate([2.2,0]) rotate(1.5) polygon(points=[[0,0],[0,7],[.7,7],[1.0,2],[1.0,0]]);
-				translate([2.2-7*sin(1.5),14.4-7]) rotate(-1.5) polygon(points=[[0,0],[0,7],[1.0,7],[1.0,5],[0.7,0]]);
+				translate([2.2,0]) rotate(1.5) polygon(points=[[0,0],[0,4.5],[.7,4.5],[1.0,2],[1.0,0]]);
+				translate([2.2-7*sin(1.5),14.4-7]) rotate(-1.5) polygon(points=[[0,2.5],[0,7],[1.0,7],[1.0,5],[0.7,2.5]]);
 		
 	}
 
@@ -108,9 +108,9 @@ module Frame(ridge_X=2.3,ridge_Y=.9){
 			difference(){
 				translate([frameThick*1+frameInsideWidth,-sheet-magnetToBase_Z- freeThread])	
 					square([frameThick,frameLengthInside/2+3.4-frameThick]);
-				translate([frameThick*2-.9+frameInsideWidth,-10])
+				translate([frameThick*2-.9+frameInsideWidth,-14])
 					square([0.9,0.01]);
-				translate([frameThick*2-.9+frameInsideWidth,-6])
+				translate([frameThick*2-.9+frameInsideWidth,-5.2])
 					square([0.9,0.01]);
 			}	
 			
