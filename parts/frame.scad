@@ -73,7 +73,7 @@ module Frame(ridge_X=2.3,ridge_Y=.9){
 		square([frameThick,magnetToBase_Z+freeThread]);
 
 
-	offset=1.8;
+	offset=1.8-.5;
 	translate([frameThick+offset,-sheet*8.5-14.4/2]) {
 				translate([-offset,0])square([offset+0.5,14.4]);
 				translate([.5,0]) square([2,2]);
