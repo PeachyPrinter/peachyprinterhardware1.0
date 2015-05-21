@@ -9,23 +9,21 @@ mirror_y=10;
 rod_to_magnet=15-.3;		
 
 //bottom to top
-//thread hole:
+//thread hole and //magnet mark:
 translate([-thread_hole,0]){
 	difference(){
-		square([width+thread_hole*2,width/2+thread_hole*2+width/4]);
+        union(){
+            translate([(width+thread_hole*2)/2, width/2+thread_hole]) circle(width*1/2+thread_hole,$fn=20);
+            translate([0, width/2+thread_hole]) square([width+thread_hole*2,magnet_radius+thread_hole+width/4]);
+            translate([width/2+magnet_radius,magnet_radius+width/2+thread_hole*2+width/4]) circle(width*1/2+thread_hole,$fn=40);
+        }
 		translate([(width+thread_hole*2)/2, width/2+thread_hole]) rotate(30) circle(thread_hole+.2, $fn=3);
+		translate([width/2+magnet_radius,magnet_radius+width/2+thread_hole*2+width/4]) circle(magnet_radius,$fn=15);
 	}
 }
-//translate([width/2-.5/2,-.5]) square([.5,.5]);
-//translate([width/2-1.5/2,-1])	square([1.5,.5]);
 
-//magnet mark:
-translate([-magnet_radius,width/2+thread_hole*2+width/4]){
-	difference(){
-		square([width+magnet_radius*2, magnet_radius*2 + width/4]);
-		translate([width/2+magnet_radius,magnet_radius]) circle(magnet_radius,$fn=15);
-	}
-}
+
+
 
 //body:
 translate([0,width+thread_hole*2+magnet_radius*2]) square([width,rod_to_magnet-rod_length*11/16]);
@@ -49,7 +47,10 @@ square([mirror_x,mirror_y]);
 //thread hole:
 translate([-thread_hole, length-thread_hole*2-width*3/4]){
 	difference(){
-		square([width+thread_hole*2,thread_hole*2+width*3/4]);
+        union(){
+            translate([width/2+thread_hole,width/2]) circle(width*1/2+thread_hole,$fn=20);
+            translate([width/2-width*1/2,0]) square([width+thread_hole*2,width*1/3+thread_hole]);
+        }
 		translate([width/2+thread_hole,width/4+thread_hole]) rotate(-30) circle(thread_hole+.2, $fn=3);
 	}
 }
