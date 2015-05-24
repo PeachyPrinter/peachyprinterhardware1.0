@@ -2,10 +2,10 @@
 
 All laser cut parts used in the $100 peachy printer kit
 
-The workflow is:
+File types:
 
-	-design in OpenScad (.scad files)
+	- *.scad design files (OpenScad) 
 
-	-export to .dxf
+	- *.dxf exported vector file 
 
-	-minor editing and laser cutting with SmartCarve (.smc files)
+	- *.smc after modified for lasercutting (SmartCarve)
