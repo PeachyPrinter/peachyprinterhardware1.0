@@ -2,7 +2,7 @@
 dripGap = 7; 
 outerWidth = 12;
 sheetThickness = 3;
-sourceHoseDiameter =(1/16) * 25.4+ .5;
+sourceHoseDiameter =2.5;
 sourceHoseLength = 20;
 drainHoseLength = 10;
 wireHoleDiameter = .7;
@@ -181,10 +181,5 @@ module etchInfo(){
         
         }
 //etchInfo();
-        
-rotate(0)        
-for( i = [1:1:1]){
-    echo(i);
-    //translate([i*16,i*12,0])
-    outerBody(iter = i);
-}
+
+    outerBody();
