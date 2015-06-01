@@ -2,7 +2,7 @@
 dripGap = 7; 
 outerWidth = 12;
 sheetThickness = 3;
-sourceHoseDiameter =2.5;
+sourceHoseDiameter =3.3;
 sourceHoseLength = 20;
 drainHoseLength = 10;
 wireHoleDiameter = .7;
