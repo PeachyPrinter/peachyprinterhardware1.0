@@ -28,11 +28,18 @@ translate([-thread_hole,0]){
 //body:
 translate([0,width+thread_hole*2+magnet_radius*2]) square([width,rod_to_magnet-rod_length*11/16]);
 
+//burr hole
+burr=.4;
 //aluminum:
 translate([-rod_radius,width+thread_hole*2+magnet_radius*2+rod_to_magnet-rod_length*11/16]){
 	difference(){
-		square([width+rod_radius*2,width+rod_length]);
+		translate([0,-burr])square([width+rod_radius*2,width+rod_length+burr*2]);
 		translate([width/2,width/2]) square([rod_radius*2,rod_length]);
+        //burr hole
+        translate([width/2,width/2-burr]) square(burr);
+        translate([width/2+rod_radius*2-burr,width/2-burr]) square(burr);
+        translate([width/2,width/2+rod_length]) square(burr);
+        translate([width/2+rod_radius*2-burr,width/2+rod_length]) square(burr);
 	}
 }
 
