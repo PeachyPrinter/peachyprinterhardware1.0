@@ -1,7 +1,7 @@
 length=46+1.7+1;  			//total length
 width=1.5+.7;  			//edge thickness
-rod_radius=3.2/2;		//dampening aluminium
-rod_length=9;
+rod_radius=3.2/2+.1;		//dampening aluminium
+rod_length=9-.4;
 magnet_radius=.5;		//tiny magnet marking
 thread_hole=.5;		//triangle "radius"
 mirror_x=5;		//mirror size
@@ -29,7 +29,7 @@ translate([-thread_hole,0]){
 translate([0,width+thread_hole*2+magnet_radius*2]) square([width,rod_to_magnet-rod_length*11/16]);
 
 //burr hole
-burr=.4;
+burr=.5;
 //aluminum:
 translate([-rod_radius,width+thread_hole*2+magnet_radius*2+rod_to_magnet-rod_length*11/16]){
 	difference(){
