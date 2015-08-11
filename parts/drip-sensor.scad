@@ -1,6 +1,6 @@
 //$t =1;
 dripGap = 7; 
-outerWidth = 12;
+outerWidth = 12+.6;
 sheetThickness = 3;
 sourceHoseDiameter =3.3;
 sourceHoseLength = 20;
@@ -10,7 +10,7 @@ extendTipLength = 0;// makes the tip longer without making it pointier
 contactTipLength =6; // as in the length of the pointy part, controls how pointy or blunt the tip is. 
 
 
-wallThickness = 1.7;
+wallThickness = 1.7+.3;
 echo($t);
 
 bottomTangLength = outerWidth-wallThickness ;
@@ -132,7 +132,7 @@ union()
 	square([wallThickness,totalLength]); // outer side wall
 	translate([outerWidth-wallThickness,0,0])
 		square([wallThickness,totalLength]); // outer side wall
-	translate([-clipGap - wallThickness,0,0])
+	translate([-clipGap - wallThickness,.00001,0])
 		square([wallThickness,totalLength]);// clip wall
 
 
