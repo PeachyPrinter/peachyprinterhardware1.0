@@ -1,6 +1,6 @@
 //$t =1;
 dripGap = 7; 
-outerWidth = 12+2;
+outerWidth = 12+4;
 sheetThickness = 3;
 sourceHoseDiameter =3.3;
 sourceHoseLength = 20;
@@ -145,7 +145,7 @@ union()
 		translate([outerWidth/2+tipWidth/2,bottomTangLength+ contactTipLength*2 + dripGap,0])
 			rotate(180)
 			contactTip(); // top contactTip()
-		translate([outerWidth/2,bottomTangLength+ contactTipLength*2 + dripGap,0])
+		translate([outerWidth/2,bottomTangLength+ contactTipLength*2 + dripGap+.4,0])
 			circle(d = sourceHoseRelifeHoleDiameter, $fn = resolution); // so that you cant pug the hose on a flat surface. 
 	}
 	translate([outerWidth/2-tipWidth/2,bottomTangLength+ contactTipLength*2 + dripGap,0])
