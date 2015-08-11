@@ -103,10 +103,10 @@ module topCutBridge()
 {
 difference()
 	{
-	translate([-clipGap-wallThickness,0,0])
-	square([outerWidth+clipGap+wallThickness,wallThickness]);
-	translate([outerWidth/2 - sourceHoseDiameter/2,0,0])
-		square([sourceHoseDiameter,wallThickness]);
+	translate([-clipGap-wallThickness,-.5,0])
+	square([outerWidth+clipGap+wallThickness,wallThickness+1]);
+	translate([outerWidth/2 - sourceHoseDiameter/2,-.5,0])
+		square([sourceHoseDiameter,wallThickness+1]);
 	translate([0,wallThickness/2,0])
 		{
 		translate([outerWidth-(outerWidth/2 - sourceHoseDiameter/2)/2 ,0,0])
