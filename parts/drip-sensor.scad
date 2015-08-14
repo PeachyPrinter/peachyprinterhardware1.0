@@ -123,6 +123,8 @@ difference()
 //sourceHoseContact();
 //contactTip();
 
+hosePoke=[1,20];
+
 module outerBody(iter)
 {
 difference()
@@ -146,8 +148,11 @@ union()
 			rotate(180)
 			contactTip(); // top contactTip()
 		translate([outerWidth/2,bottomTangLength+ contactTipLength*2 + dripGap+.4,0])
-			circle(d = sourceHoseRelifeHoleDiameter, $fn = resolution); // so that you cant pug the hose on a flat surface. 
+			circle(.0001);
 	}
+    translate([outerWidth/2,bottomTangLength+ contactTipLength*2 + dripGap-1.1,0]) //square for hose to go into
+        translate([-hosePoke[0]/2,0]) square(hosePoke);
+    
 	translate([outerWidth/2-tipWidth/2,bottomTangLength+ contactTipLength*2 + dripGap,0])
 	sourceHoseReciver();
 	translate([0,totalLength,0])
