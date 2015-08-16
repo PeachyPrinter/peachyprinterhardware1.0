@@ -123,7 +123,7 @@ difference()
 //sourceHoseContact();
 //contactTip();
 
-hosePoke=[1,20];
+hosePoke=[2.5,20];
 
 module outerBody(iter)
 {
