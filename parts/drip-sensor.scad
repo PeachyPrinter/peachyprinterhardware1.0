@@ -1,5 +1,5 @@
 //$t =1;
-dripGap = 7; 
+dripGap = 8.5; 
 outerWidth = 12+4;
 sheetThickness = 3;
 sourceHoseDiameter =3.3;
