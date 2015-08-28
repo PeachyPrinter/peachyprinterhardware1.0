@@ -4,7 +4,8 @@ s1=2.7;
 square1_p=[-3.5,-13-1.76];
 square1_s=[11,32+1.76];
 
-laser=6/2;
+laser=5/2;
+laser2=[1.1,5/2+1/2,180+45];
 laser_s=50;
 
 track_w=10;
@@ -37,4 +38,4 @@ difference(){
 //	translate(lights_p) square(lights_s);
 	translate(hole1_p) circle(hole1,$fn=hole1_s);
 	translate(hole2_p) circle(hole2,$fn=hole2_s);
-}
+}rotate(laser2[2]) translate([0,laser2[1]]) circle(laser2[0],$fn=laser_s);
