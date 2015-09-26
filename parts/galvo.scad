@@ -1,7 +1,7 @@
 length=46+1.7+1;  			//total length
 width=1.5+.7;  			//edge thickness
 rod_radius=3.2/2+.1;		//dampening aluminium
-rod_length=9-.4;
+rod_length=9+.5;
 magnet_radius=.5;		//tiny magnet marking
 thread_hole=.5;		//triangle "radius"
 mirror_x=5;		//mirror size
