@@ -37,22 +37,37 @@ module lFoam(){
 
 module dFoam(){
     difference(){
-        square([box[1]-foam*2,box[2]]);
-        translate([box[1]-foam*2-circuit[1]/2-notch1/2,0])
-            square([notch1,foam]);
+        square([box[1],box[2]]);
+        translate([box[1]/4,0]) square([box[1]/2,foam]);
     }
-    translate([-foam,box[2]-notch2])
-        square([foam,notch2]);
-    translate([box[1]-foam*2,box[2]-notch2])
-        square([foam,notch2]);
+
+}
+
+hold=10;
+inset=45;
+
+module bFoam(){
+    difference(){
+        polygon([[0,0],[0,hold],[inset,box[1]],[box[0]-inset,box[1]],[box[0],hold],[box[0],0]]);
+        translate([box[0]/2-divider/2-foam,0])
+            square([foam,box[1]/4]);
+        translate([box[0]/2-divider/2-foam,box[1]*3/4])
+            square([foam,box[1]/4]);
+        translate([box[0]/2+divider/2,0])
+            square([foam,box[1]/4]);
+        translate([box[0]/2+divider/2,box[1]*3/4])
+            square([foam,box[1]/4]);
+    }
 }
 
 module d2(){    //2d
     dFoam();
-    translate([130,0])
+    translate([140,0])
         cFoam();
     translate([-foam,60])
         lFoam();
+    translate([220,0])
+        bFoam();
 }
 
 module d3(){    //3d
