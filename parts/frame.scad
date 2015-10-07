@@ -103,18 +103,16 @@ module Frame(ridge_X=2.3,ridge_Y=.9){
 
 	difference(){
 		union(){
+            translate([frameThick*1+frameInsideWidth,-sheet-magnetToBase_Z- freeThread])
+                square([frameThick,frameLengthInside/2+3.4-frameThick]);
 			translate([frameThick+frameInsideWidth,-sheet-magnetToBase_Z- freeThread+frameLengthInside/2-2.4])
 				square([frameThick,frameLengthInside/2+2.4]);	
-			difference(){
-				translate([frameThick*1+frameInsideWidth,-sheet-magnetToBase_Z- freeThread])	
-					square([frameThick,frameLengthInside/2+3.4-frameThick]);
-				translate([frameThick*2-.9+frameInsideWidth,-14])
-					square([0.9,0.01]);
-				translate([frameThick*2-.9+frameInsideWidth,-5.2])
-					square([0.9,0.01]);
-			}	
-			
-		}
+        }		
+				translate([frameThick*2-.9+frameInsideWidth,-20]) rotate(-30)
+					square([1,0.01]);
+				translate([frameThick*2-.9+frameInsideWidth,+15])rotate(30)
+					square([1,0.01]);
+		
 
 	}
 
@@ -145,6 +143,7 @@ module Frame(ridge_X=2.3,ridge_Y=.9){
 
 }
 
+//linear_extrude(3) Frame();
 Frame();
 
 
