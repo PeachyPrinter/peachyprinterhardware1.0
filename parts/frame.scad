@@ -108,10 +108,10 @@ module Frame(ridge_X=2.3,ridge_Y=.9){
 			translate([frameThick+frameInsideWidth,-sheet-magnetToBase_Z- freeThread+frameLengthInside/2-2.4])
 				square([frameThick,frameLengthInside/2+2.4]);	
         }		
-				translate([frameThick*2-.9+frameInsideWidth,-20]) rotate(-30)
-					square([1,0.01]);
-				translate([frameThick*2-.9+frameInsideWidth,+15])rotate(30)
-					square([1,0.01]);
+				translate([frameThick*2-.9+frameInsideWidth,-20]) rotate(30)
+					square([2,.2]);
+				translate([frameThick*2-.9+frameInsideWidth,+15])rotate(-30)
+					square([2,.2]);
 		
 
 	}
