@@ -1,0 +1,5 @@
+styrofoma inserts work at 
+max power 50
+min power 50 
+speed 200
+
