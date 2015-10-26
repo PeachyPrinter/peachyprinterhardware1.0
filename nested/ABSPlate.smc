@@ -463,8 +463,8 @@
   </impAiFile>
   <layer_list>
     <layer process_media = "0" prior = "1" color = "0x00FF0000" visible = "true" id = "0" name = "1" acc = "0" process = "true" frequency = "0" end_power = "1500" speed = "30000" begin_power = "1500" laser_way = "15"/>
-    <layer process_media = "0" prior = "2" color = "0x0000FF00" visible = "true" id = "1" name = "2" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "18000" begin_power = "10000" laser_way = "15"/>
-    <layer process_media = "0" prior = "3" color = "0x000000FF" visible = "true" id = "2" name = "3" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "35000" begin_power = "10000" laser_way = "15"/>
+    <layer process_media = "0" prior = "2" color = "0x0000FF00" visible = "true" id = "1" name = "2" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "25000" begin_power = "10000" laser_way = "15"/>
+    <layer process_media = "0" prior = "3" color = "0x000000FF" visible = "true" id = "2" name = "3" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "42000" begin_power = "10000" laser_way = "15"/>
     <layer process_media = "0" prior = "4" color = "0x00800000" visible = "true" id = "3" name = "4" acc = "0" process = "true" frequency = "0" end_power = "100" speed = "15000" begin_power = "100" laser_way = "15"/>
     <layer process_media = "0" prior = "5" color = "0x00008000" visible = "true" id = "4" name = "5" acc = "0" process = "true" frequency = "0" end_power = "100" speed = "15000" begin_power = "100" laser_way = "15"/>
     <layer process_media = "0" prior = "6" color = "0x00000080" visible = "true" id = "5" name = "6" acc = "0" process = "true" frequency = "0" end_power = "100" speed = "15000" begin_power = "100" laser_way = "15"/>
@@ -833,8 +833,8 @@
       <line head_lead_angle = "0.000000" head_lead = "false" layer_id = "1" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "115800,22240,10000;126000,22240;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
       <line head_lead_angle = "0.000000" head_lead = "false" layer_id = "1" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "82560,28700,10000;82560,20980;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
       <line head_lead_angle = "0.000000" head_lead = "false" layer_id = "1" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "96270,16556,10000;127932,16556;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
-      <ellipse rotate = "1.570793" radius_a = "150" begin = "5.902678" deasil = "false" layer_id = "1" radius_b = "150" center = "106255,24056" end = "12.185864"/>
-      <ellipse rotate = "1.570793" radius_a = "150" begin = "5.902678" deasil = "false" layer_id = "1" radius_b = "150" center = "108255,24056" end = "12.185864"/>
+      <ellipse rotate = "1.570792" radius_a = "150" begin = "5.902678" deasil = "false" layer_id = "1" radius_b = "150" center = "106255,24056" end = "12.185864"/>
+      <ellipse rotate = "1.570792" radius_a = "150" begin = "5.902678" deasil = "false" layer_id = "1" radius_b = "150" center = "108255,24056" end = "12.185864"/>
       <ellipse rotate = "0.000000" radius_a = "150" begin = "1.190289" deasil = "false" layer_id = "1" radius_b = "150" center = "107255,23056" end = "7.473475"/>
       <ellipse rotate = "0.785397" radius_a = "2890" begin = "1.678482" deasil = "false" layer_id = "1" radius_b = "2889" center = "74040,13240" end = "7.961668"/>
       <line head_lead_angle = "0.000000" head_lead = "false" layer_id = "1" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "69530,13235,10000;71160,13235;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
