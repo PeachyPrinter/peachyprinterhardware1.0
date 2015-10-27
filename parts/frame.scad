@@ -73,19 +73,19 @@ module Frame(ridge_X=2.3,ridge_Y=.9){
 		square([frameThick,magnetToBase_Z+freeThread]);
 
 
-	offset=1.8-.5;
+	offset=1.8-.5-1.7;
 	translate([frameThick+offset,-sheet*8.5-14.4/2]) {
-				translate([-offset,0])square([offset+0.5,14.4]);
-				translate([.5,0]) square([2,2]);
-				translate([.5,14.4-2]) square([2,2]);
-				translate([2.2,0]) rotate(1.5) polygon(points=[[0,0],[0,4.5],[.7,4.5],[1.0,2],[1.0,0]]);
-				translate([2.2-7*sin(1.5),14.4-7]) rotate(-1.5) polygon(points=[[0,2.5],[0,7],[1.0,7],[1.0,5],[0.7,2.5]]);
+				translate([-offset,0-.8])square([offset+0.5,14.4+1.6]);
+				translate([.5,0-.8]) square([1.3,2]);
+				translate([.5,14.4-2+.8]) square([1.3,2]);
+				translate([2.6-.8,0-.8]) square([1.9,2.6]);
+				translate([2.6-.8,14.4-3+.8+.4]) square([1.9,2.6]);
 		
 	}
 
 	//bottom:
 	difference() {
-		translate([0,-sheet-magnetToBase_Z- freeThread- frameThick])
+		translate([0,-sheet-magnetToBase_Z- freeThread- frameThick+.01])
 			square([frameThick*2+frameInsideWidth,frameThick]);
 
 		//notches for thread
@@ -108,9 +108,9 @@ module Frame(ridge_X=2.3,ridge_Y=.9){
 			translate([frameThick+frameInsideWidth,-sheet-magnetToBase_Z- freeThread+frameLengthInside/2-2.4])
 				square([frameThick,frameLengthInside/2+2.4]);	
         }		
-				translate([frameThick*2-.9+frameInsideWidth,-20]) rotate(30)
+				translate([frameThick*2-.9+frameInsideWidth,-20]) rotate(0)
 					square([2,.2]);
-				translate([frameThick*2-.9+frameInsideWidth,+15])rotate(-30)
+				translate([frameThick*2-.9+frameInsideWidth,+15])rotate(0)
 					square([2,.2]);
 		
 
