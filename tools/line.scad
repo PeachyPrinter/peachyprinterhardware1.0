@@ -60,3 +60,4 @@ module line(l=0,a=0,points=0,closed=0){
 test=[[1,1],[2,4],[3,0],[1,1]];
 //make test example
 	line(points=test);
+    line(1,45);
