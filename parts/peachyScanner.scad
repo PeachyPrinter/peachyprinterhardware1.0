@@ -113,7 +113,7 @@ module longLine()
 square([longLineLength, longLineThickness]);
 }
 
-module degLines()
+module degLines(mirror=false)
 {
 for (i = [-90:10:90] )
 {
@@ -127,7 +127,10 @@ for (i = [-90:45:90] )
     rotate(i)
     translate([centerDiskRadius,0,0]){
     longLine();
-      if (i >= 0) {  translate([textHeight*1.5,0,0])   text(str(i),2);   }
+      if (i >= 0) {  
+          if (mirror==false) translate([textHeight*1.5,0,0])   text(str(i),2);   
+          else translate([textHeight*1.5,0,0]) rotate(180) mirror([1,0,0])  text(str(i),2); 
+      }
 }
 }
 }
@@ -141,7 +144,7 @@ module circleScribe(r=20,offC=-7,s=1.5){
     
 }
 module circleScribes(r=20,offC=-7,s=1.5){
-    for(i=[60:20:180]){
+    for(i=[60:20:170]){
         circleScribe(i);
     }
 }
@@ -175,7 +178,13 @@ module rulerBody()
     degLines();
     circleScribes();
     }
+    translate([rulerLength-centerDiskRadius - wallThickness, rulerWidth/2, 0])mirror([1,0,0]){
+    centerDiskHole();
+    degLines(mirror=true);
+    }
     translate([60,rulerWidth/2,0])
+    centerDisk();
+    translate([rulerLength-40,rulerWidth/2,0])
     centerDisk();
     laserMountHole();
    #lineLensMountHole();
