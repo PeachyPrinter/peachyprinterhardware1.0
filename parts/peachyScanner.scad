@@ -184,10 +184,14 @@ module rulerBody()
     }
     translate([60,rulerWidth/2,0])
     centerDisk();
-    translate([rulerLength-40,rulerWidth/2,0])
+    translate([rulerLength-60,rulerWidth/2,0])
     centerDisk();
     laserMountHole();
-   #lineLensMountHole();
+    lineLensMountHole();
+    translate([rulerLength,0]) mirror([1,0,0]){
+        laserMountHole();
+        lineLensMountHole();
+    }
     
         translate([rulerLength,0.01]) mirror([1,0,0])
             rulings(rulerLength-1,mirror=true);
