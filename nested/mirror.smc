@@ -462,7 +462,7 @@
     <text_size value = "1"/>
   </impAiFile>
   <layer_list>
-    <layer process_media = "0" prior = "1" color = "0x00FF0000" visible = "true" id = "0" name = "1" acc = "0" process = "true" frequency = "0" end_power = "1400" speed = "30000" begin_power = "1400" laser_way = "15"/>
+    <layer process_media = "0" prior = "1" color = "0x00FF0000" visible = "true" id = "0" name = "1" acc = "0" process = "true" frequency = "0" end_power = "1500" speed = "30000" begin_power = "1500" laser_way = "15"/>
     <layer process_media = "0" prior = "2" color = "0x0000FF00" visible = "true" id = "1" name = "2" acc = "0" process = "true" frequency = "0" end_power = "1750" speed = "30000" begin_power = "1750" laser_way = "15"/>
     <layer process_media = "0" prior = "3" color = "0x000000FF" visible = "true" id = "2" name = "3" acc = "0" process = "true" frequency = "0" end_power = "1300" speed = "30000" begin_power = "1300" laser_way = "15"/>
     <layer process_media = "0" prior = "4" color = "0x00800000" visible = "true" id = "3" name = "4" acc = "0" process = "true" frequency = "0" end_power = "1000" speed = "20000" begin_power = "1000" laser_way = "15"/>
