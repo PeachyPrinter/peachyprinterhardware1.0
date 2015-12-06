@@ -1,14 +1,14 @@
 
 rodDiameter = 6;
 slotWidth = 4; // could be defined using sheet thickness, cos and rodDiameter..
-slotLength = 100;
-nSlots = 10;
+slotLength = 900;
+nSlots = 3;
 
 laserCurf = .2;
 sheetThickness = 3;
-laserHousingDiameter = 4;
+laserHousingDiameter = 6;
 lensLength = sheetThickness + laserHousingDiameter + laserCurf;
-
+echo(lensLength);
 overCutLength = 1;
 
 totalCutLength = rodDiameter + overCutLength * 2;
@@ -76,4 +76,3 @@ module partsPlate()
     cuts();
 }
 partsPlate();
-    

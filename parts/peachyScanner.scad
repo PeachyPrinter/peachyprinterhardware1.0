@@ -23,7 +23,7 @@ sheetThickness = 3;
 wallThickness = 3;
 centerDiskRadius = rulerWidth/2 - wallThickness *2 - pegLength ;
 
-lineLensDiameter = 3.16;
+lineLensDiameter = 6;
 extraLaserHeight = 7;
 pegLength = 3;
 laserHousingDiameter = 5.97;
