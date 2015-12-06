@@ -438,7 +438,7 @@
     <table19 facula = "2.00000" focus = "10.00000"/>
   </focus_table>
   <expCarveOut1>
-    <Port value = "4"/>
+    <Port value = "9"/>
     <OriginMode value = "current"/>
     <FeedCount value = "0"/>
     <CloneRow value = "1"/>
@@ -462,9 +462,9 @@
     <text_size value = "1"/>
   </impAiFile>
   <layer_list>
-    <layer process_media = "0" prior = "1" color = "0x00FE2C36" visible = "true" id = "0" name = "1" acc = "0" process = "true" frequency = "0" end_power = "3500" speed = "20000" begin_power = "3500" laser_way = "15"/>
-    <layer process_media = "0" prior = "2" color = "0x0000FF00" visible = "true" id = "1" name = "2" acc = "0" process = "true" frequency = "0" end_power = "3500" speed = "20000" begin_power = "3500" laser_way = "15"/>
-    <layer process_media = "0" prior = "3" color = "0x000000FF" visible = "true" id = "2" name = "3" acc = "0" process = "true" frequency = "0" end_power = "500" speed = "50000" begin_power = "500" laser_way = "15"/>
+    <layer process_media = "0" prior = "1" color = "0x00FE2C36" visible = "true" id = "0" name = "1" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "15000" begin_power = "10000" laser_way = "15"/>
+    <layer process_media = "0" prior = "2" color = "0x0000FF00" visible = "true" id = "1" name = "2" acc = "0" process = "false" frequency = "0" end_power = "3000" speed = "50000" begin_power = "3000" laser_way = "15"/>
+    <layer process_media = "0" prior = "3" color = "0x000000FF" visible = "true" id = "2" name = "3" acc = "0" process = "false" frequency = "0" end_power = "10000" speed = "20000" begin_power = "10000" laser_way = "15"/>
     <layer process_media = "0" prior = "4" color = "0x00800000" visible = "true" id = "3" name = "4" acc = "0" process = "true" frequency = "0" end_power = "1600" speed = "20000" begin_power = "1600" laser_way = "15"/>
     <layer process_media = "0" prior = "5" color = "0x00008000" visible = "true" id = "4" name = "5" acc = "0" process = "true" frequency = "0" end_power = "2500" speed = "20000" begin_power = "2500" laser_way = "15"/>
     <layer process_media = "0" prior = "6" color = "0x00000080" visible = "true" id = "5" name = "6" acc = "0" process = "true" frequency = "0" end_power = "2500" speed = "20000" begin_power = "2500" laser_way = "15"/>
@@ -721,10 +721,12 @@
   </layer_list>
   <group_list>
     <group layer_id = "0" process = "true" type = "10">
-      <ellipse rotate = "1.570796" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "16550,15250" end = "7.165057"/>
-      <ellipse rotate = "1.570796" radius_a = "1930" begin = "5.530034" deasil = "false" radius_b = "1930" center = "12400,7400" end = "11.813219"/>
-      <ellipse rotate = "1.570796" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "8450,15250" end = "7.165057"/>
-      <ellipse rotate = "1.570796" radius_a = "12500" begin = "5.507887" deasil = "false" radius_b = "12500" center = "12500,12500" end = "11.791073"/>
+      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "20549,19249" end = "7.165056"/>
+      <ellipse rotate = "1.570795" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "16399,11399" end = "11.813219"/>
+      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "12449,19249" end = "7.165056"/>
+      <ellipse rotate = "1.573854" radius_a = "16500" begin = "5.504841" deasil = "false" layer_id = "1" radius_b = "16499" center = "16499,16499" end = "11.788026"/>
+      <rectangle layer_id = "2" start_node = "0" height = "105600" adjust = "-50600,-36400;84200,-36400;84200,69200;-50600,69200;" node = "-50600,-36400;-50600,-36400;84200,-36400;84200,-36400;84200,69200;84200,69200;-50600,69200;-50600,69200;" center = "16800,16400" width = "134800" radius = "0"/>
+      <ellipse rotate = "1.573508" radius_a = "16400" begin = "5.505189" deasil = "false" layer_id = "2" radius_b = "16399" center = "16499,16499" end = "11.788374"/>
     </group>
   </group_list>
 </smartcarve>
