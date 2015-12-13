@@ -1,9 +1,9 @@
-taper=1.5;
+taper=0.5;
 hoseID=6-1.5; //[1.5,7],[2.5,7],[2.7,8]
 hoseOD=7;
 
 width=[hoseOD,hoseID,hoseID-taper];
-length=[4,10];
+length=[4,11];
 
 square([width[0],length[0]]);
 translate([width[0]/2,length[0]]) 
