@@ -10,7 +10,7 @@ extendTipLength = 0;// makes the tip longer without making it pointier
 contactTipLength =6; // as in the length of the pointy part, controls how pointy or blunt the tip is. 
 
 
-wallThickness = 1.7+.5;
+wallThickness = 1.7+.5+.2;
 echo($t);
 
 bottomTangLength = outerWidth-wallThickness ;
