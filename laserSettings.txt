@@ -3,3 +3,6 @@ max power 50
 min power 50 
 speed 200
 
+
+
+have seen abs sheets as thick as 3.12mm

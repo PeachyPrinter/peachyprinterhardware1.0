@@ -438,7 +438,7 @@
     <table19 facula = "2.00000" focus = "10.00000"/>
   </focus_table>
   <expCarveOut1>
-    <Port value = "4"/>
+    <Port value = "9"/>
     <OriginMode value = "current"/>
     <FeedCount value = "0"/>
     <CloneRow value = "1"/>
@@ -462,7 +462,7 @@
     <text_size value = "1"/>
   </impAiFile>
   <layer_list>
-    <layer process_media = "0" prior = "1" color = "0x00FF0000" visible = "true" id = "0" name = "1" acc = "0" process = "true" frequency = "0" end_power = "1500" speed = "180000" begin_power = "1500" laser_way = "15"/>
+    <layer process_media = "0" prior = "1" color = "0x00FF0000" visible = "true" id = "0" name = "1" acc = "0" process = "true" frequency = "0" end_power = "10000" speed = "25000" begin_power = "10000" laser_way = "15"/>
     <layer process_media = "0" prior = "2" color = "0x0000FF00" visible = "true" id = "1" name = "2" acc = "0" process = "true" frequency = "0" end_power = "3500" speed = "40000" begin_power = "3500" laser_way = "15"/>
     <layer process_media = "0" prior = "3" color = "0x000000FF" visible = "true" id = "2" name = "3" acc = "0" process = "false" frequency = "0" end_power = "10000" speed = "30000" begin_power = "10000" laser_way = "15"/>
     <layer process_media = "0" prior = "4" color = "0x00800000" visible = "true" id = "3" name = "4" acc = "0" process = "false" frequency = "0" end_power = "10000" speed = "50000" begin_power = "10000" laser_way = "15"/>

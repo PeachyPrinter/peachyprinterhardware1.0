@@ -721,11 +721,11 @@
   </layer_list>
   <group_list>
     <group layer_id = "0" process = "true" type = "10">
-      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "16350,16350" end = "7.165056"/>
-      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "8650,16350" end = "7.165056"/>
-      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "16350,8650" end = "7.165056"/>
-      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "8650,8650" end = "7.165056"/>
-      <ellipse rotate = "1.570795" radius_a = "12500" begin = "5.507886" deasil = "false" layer_id = "1" radius_b = "12500" center = "12500,12500" end = "11.791072"/>
+      <ellipse rotate = "0.785397" radius_a = "2300" begin = "1.667267" deasil = "false" radius_b = "2299" center = "16350,16350" end = "7.950453"/>
+      <ellipse rotate = "0.785397" radius_a = "2300" begin = "1.667267" deasil = "false" radius_b = "2299" center = "8650,16350" end = "7.950453"/>
+      <ellipse rotate = "0.785397" radius_a = "2300" begin = "1.667267" deasil = "false" radius_b = "2299" center = "16350,8650" end = "7.950453"/>
+      <ellipse rotate = "0.785397" radius_a = "2300" begin = "1.667267" deasil = "false" radius_b = "2299" center = "8650,8650" end = "7.950453"/>
+      <ellipse rotate = "1.570793" radius_a = "12500" begin = "5.507884" deasil = "false" layer_id = "1" radius_b = "12500" center = "12500,12500" end = "11.791070"/>
     </group>
   </group_list>
 </smartcarve>
