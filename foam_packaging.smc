@@ -150,7 +150,7 @@
       <SubAreaWidth value = "100000.000000"/>
       <SubAreaHeight value = "100000.000000"/>
     </PathOpt>
-    <text_size value = "1"/>
+    <text_size value = "16"/>
     <Text_Font value = "@Batang"/>
     <Text_FontType value = "0"/>
   </workspace>
@@ -723,11 +723,11 @@
     <group layer_id = "0" process = "true" type = "10">
       <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "false" lead_method = "0" points = "177917,13700,10000;89016,13700;89016,108950;177917,108950;177917,13700;" work_method = "0" segment_length = "0" drill_time = "0" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "0" head_lead_length = "0" tail_lead_angle = "0.000000"/>
       <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "false" lead_method = "0" points = "66733,24812,10000;22283,24812;22283,97837;66733,97837;66733,24812;" work_method = "0" segment_length = "0" drill_time = "0" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "0" head_lead_length = "0" tail_lead_angle = "0.000000"/>
-      <ellipse rotate = "1.570796" radius_a = "6000" begin = "5.606270" deasil = "false" radius_b = "6000" center = "14400,12900" end = "11.889455"/>
-      <ellipse rotate = "1.570796" radius_a = "6000" begin = "5.606270" deasil = "false" radius_b = "6000" center = "74400,12900" end = "11.889455"/>
-      <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "45202,16750,10000;48200,16750;48200,19750;36200,19750;36200,16750;39200,16748;39200,4750;45200,4750;45202,16750;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
-      <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "45202,105900,10000;48200,105900;48200,102900;36200,102900;36200,105900;39200,105902;39200,117900;45200,117900;45202,105900;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
+      <ellipse rotate = "1.570795" radius_a = "6000" begin = "5.606270" deasil = "false" radius_b = "6000" center = "14400,12900" end = "11.889455"/>
+      <ellipse rotate = "1.570795" radius_a = "6000" begin = "5.606270" deasil = "false" radius_b = "6000" center = "74400,12900" end = "11.889455"/>
+      <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "46710,104900,10000;50508,104900;50508,102900;38508,102900;38508,104900;42258,104902;42258,117900;46708,117900;46710,104900;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
       <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "0,0,10000;0,122650;200200,122650;200200,122650;200200,0;0,0;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
+      <ellipse rotate = "1.570796" radius_a = "4500" begin = "5.551307" deasil = "false" radius_b = "4500" center = "44358,15650" end = "11.834492"/>
     </group>
   </group_list>
 </smartcarve>
