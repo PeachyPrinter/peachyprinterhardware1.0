@@ -150,8 +150,8 @@
       <SubAreaWidth value = "100000.000000"/>
       <SubAreaHeight value = "100000.000000"/>
     </PathOpt>
-    <text_size value = "1"/>
-    <Text_Font value = "@Batang"/>
+    <text_size value = "10"/>
+    <Text_Font value = "@Dotum"/>
     <Text_FontType value = "0"/>
   </workspace>
   <GTConfig>
@@ -724,7 +724,7 @@
       <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "false" lead_method = "0" points = "177917,13700,10000;89016,13700;89016,108950;177917,108950;177917,13700;" work_method = "0" segment_length = "0" drill_time = "0" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "0" head_lead_length = "0" tail_lead_angle = "0.000000"/>
       <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "false" lead_method = "0" points = "66733,24812,10000;22283,24812;22283,97837;66733,97837;66733,24812;" work_method = "0" segment_length = "0" drill_time = "0" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "0" head_lead_length = "0" tail_lead_angle = "0.000000"/>
       <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "36007,107898,10000;36007,104100;34008,104100;34008,116100;36007,116100;36010,112350;52008,112350;52008,107900;36007,107898;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
-      <ellipse rotate = "1.570795" radius_a = "4500" begin = "5.551307" deasil = "false" radius_b = "4500" center = "37358,12450" end = "11.834492"/>
+      <ellipse rotate = "1.570794" radius_a = "4500" begin = "5.551307" deasil = "false" radius_b = "4500" center = "37358,12450" end = "11.834492"/>
       <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "0,122650,10000;0,0;200200,0;200200,0;200200,122650;0,122650;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
       <group>
         <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "67180,13968,10000;81250,13968;81251,16668;67160,16668;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
@@ -750,6 +750,7 @@
         <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "20411,18468,10000;23251,18468;23251,5568;20412,5568;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
         <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "20412,5568,10000;20420,13968;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
       </group>
+      <line head_lead_angle = "0.000000" head_lead = "false" tail_lead = "false" line_type = "0" auto_angle = "false" lead_method = "0" points = "188677,115503,10000;191377,115502;191377,91703;188677,91703;188677,115503;" work_method = "0" segment_length = "0" drill_time = "0" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "0" head_lead_length = "0" tail_lead_angle = "0.000000"/>
     </group>
   </group_list>
 </smartcarve>
