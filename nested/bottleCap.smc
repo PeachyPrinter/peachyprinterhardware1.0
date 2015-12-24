@@ -721,281 +721,358 @@
   </layer_list>
   <group_list>
     <group layer_id = "0" process = "true" type = "10">
-      <group>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669300,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "665150,211590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661200,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709800,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "705650,211590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701700,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750300,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "746150,211590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742200,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790800,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "786650,211590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782700,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831300,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "827150,211590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823200,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871800,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "867650,211590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863700,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912300,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "908150,211590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904200,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952800,219440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "948650,211590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944700,219440" end = "7.165055"/>
-      </group>
-      <group>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669300,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "665150,252090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661200,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709800,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "705650,252090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701700,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750300,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "746150,252090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742200,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790800,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "786650,252090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782700,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831300,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "827150,252090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823200,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871800,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "867650,252090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863700,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912300,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "908150,252090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904200,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952800,259940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "948650,252090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944700,259940" end = "7.165055"/>
-      </group>
-      <group>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669300,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "665150,292590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661200,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709800,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "705650,292590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701700,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750300,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "746150,292590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742200,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790800,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "786650,292590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782700,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831300,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "827150,292590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823200,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871800,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "867650,292590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863700,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912300,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "908150,292590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904200,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952800,300440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "948650,292590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944700,300440" end = "7.165055"/>
-      </group>
-      <group>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669300,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "665150,333090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661200,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709800,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "705650,333090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701700,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750300,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "746150,333090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742200,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790800,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "786650,333090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782700,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831300,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "827150,333090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823200,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871800,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "867650,333090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863700,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912300,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "908150,333090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904200,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952800,340940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "948650,333090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944700,340940" end = "7.165055"/>
-      </group>
-      <group>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669300,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "665150,373590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661200,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709800,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "705650,373590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701700,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750300,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "746150,373590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742200,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790800,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "786650,373590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782700,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831300,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "827150,373590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823200,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871800,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "867650,373590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863700,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912300,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "908150,373590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904200,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952800,381440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "948650,373590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944700,381440" end = "7.165055"/>
-      </group>
-      <group>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669300,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "665150,414090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661200,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709800,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "705650,414090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701700,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750300,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "746150,414090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742200,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790800,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "786650,414090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782700,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831300,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "827150,414090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823200,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871800,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "867650,414090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863700,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912300,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "908150,414090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904200,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952800,421940" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "948650,414090" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944700,421940" end = "7.165055"/>
-      </group>
-      <group>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669300,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "665150,454590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661200,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709800,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "705650,454590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701700,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750300,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "746150,454590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742200,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790800,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "786650,454590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782700,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831300,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "827150,454590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823200,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871800,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "867650,454590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863700,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912300,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "908150,454590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904200,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952800,462440" end = "7.165055"/>
-        <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "948650,454590" end = "11.813217"/>
-        <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944700,462440" end = "7.165055"/>
-      </group>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669300,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "665150,171090" end = "11.813217"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661200,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709800,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "705650,171090" end = "11.813217"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701700,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750300,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "746150,171090" end = "11.813217"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742200,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790800,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "786650,171090" end = "11.813217"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782700,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831300,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "827150,171090" end = "11.813217"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823200,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871800,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "867650,171090" end = "11.813217"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863700,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912300,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "908150,171090" end = "11.813217"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904200,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952800,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570793" radius_a = "1930" begin = "5.530033" deasil = "false" radius_b = "1930" center = "948650,171090" end = "11.813217"/>
-      <ellipse rotate = "1.570793" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944700,178940" end = "7.165055"/>
-      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "594350,152350" end = "7.165056"/>
-      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "586650,152350" end = "7.165056"/>
-      <ellipse rotate = "1.570795" radius_a = "12500" begin = "5.507886" deasil = "false" radius_b = "12500" center = "590500,148500" end = "11.791072"/>
-      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "594350,144650" end = "7.165056"/>
-      <ellipse rotate = "1.570795" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "586650,144650" end = "7.165056"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,175250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,175250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,175250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,175250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,175250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,175250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,175250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,175250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,215750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,215750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,215750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,215750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,215750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,215750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,215750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,215750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,256250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,256250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,256250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,256250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,256250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,256250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,256250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,256250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,296750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,296750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,296750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,296750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,296750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,296750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,296750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,296750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,337250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,337250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,337250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,337250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,337250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,337250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,337250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,337250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,377750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,377750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,377750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,377750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,377750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,377750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,377750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,377750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,418250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,418250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,418250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,418250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,418250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,418250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,418250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,418250" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,458750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,458750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,458750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,458750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,458750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,458750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,458750" end = "7.218143"/>
-      <ellipse rotate = "1.570795" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,458750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,178850" end = "7.165055"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,178850" end = "7.165055"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,171150" end = "7.165055"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,171150" end = "7.165055"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,178850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,171150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,219350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,211650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,259850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,252150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,300350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,292650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,340850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,333150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,381350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,373650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,421850" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,414150" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "669050,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "661350,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "709550,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "701850,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "750050,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "742350,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "790550,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "782850,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "831050,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "823350,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "871550,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "863850,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "912050,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "904350,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,462350" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "952550,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "2400" begin = "0.881871" deasil = "false" radius_b = "2400" center = "944850,454650" end = "7.165056"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,175250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,175250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,175250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,175250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,175250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,175250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,175250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,175250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,215750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,215750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,215750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,215750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,215750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,215750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,215750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,215750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,256250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,256250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,256250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,256250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,256250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,256250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,256250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,256250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,296750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,296750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,296750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,296750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,296750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,296750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,296750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,296750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,337250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,337250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,337250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,337250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,337250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,337250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,337250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,337250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,377750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,377750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,377750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,377750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,377750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,377750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,377750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,377750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,418250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,418250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,418250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,418250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,418250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,418250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,418250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,418250" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "665250,458750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "705750,458750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "746250,458750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "786750,458750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "827250,458750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "867750,458750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "908250,458750" end = "7.218143"/>
+      <ellipse rotate = "1.570794" radius_a = "15250" begin = "0.934956" deasil = "false" layer_id = "1" radius_b = "15250" center = "948750,458750" end = "7.218143"/>
       <line head_lead_angle = "0.000000" head_lead = "false" layer_id = "2" tail_lead = "false" line_type = "0" auto_angle = "true" lead_method = "0" points = "640000,484000,10000;640000,150000;974000,150000;" work_method = "0" segment_length = "1000" drill_time = "1000" axis = "x,y,p" tail_lead_length = "0" overlap_length = "0" blank_length = "1000" head_lead_length = "0" tail_lead_angle = "0.000000"/>
     </group>
   </group_list>
