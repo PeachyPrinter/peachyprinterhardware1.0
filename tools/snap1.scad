@@ -1,6 +1,19 @@
+//This is an experiment into a new tool for designing with OpenScad
+
+//It allows the designer to use a common fastening method on multiple parts
+
+//This tool specifically applies to flexible materials cut from a flat sheet, 
+//but similar tools can be made for other materials and fastening methods
+
+//The tool should have a simple interface for easy aligning of fastened parts,
+//and to adjust for changes in the material (e.g. flexibility), and tolerance 
+//(e.g. loose fitting or tight)
+
+//To use this fastener, call module Snap1A on the male part,
+//and Snap1B on the female part, each at the location where they parts intersect in 3d space
+
 
 /*--------------------Snap1:---------------------------
-
 	parameters:
 	ridge_X,ridge_Y
 		-ridge that stops B from going left (on bottom)
@@ -25,9 +38,9 @@
 	extraTension
 		-tension after the mount is snapped in
 */
+
+//Male end
 module Snap1A(ridge_X=2, ridge_Y=1, notch_x=2,notch_y=.65,notch_taper=.2, curve=2.5, arc=40, edges=45, length=22, width=10, cut=1.5, thick=2.9, extraTension=0.4,sheet_A=2.66){		
-	//laser mounts snap into this
-	//zero x coord is left edge of mount
 
 	//add ridge to stop mount from going further left
 	translate([-ridge_X,-ridge_Y])
@@ -53,14 +66,14 @@ module Snap1A(ridge_X=2, ridge_Y=1, notch_x=2,notch_y=.65,notch_taper=.2, curve=
 
 
 	}
-//notch on top
+		//notch on top
 		translate([-notch_x,width])
 			polygon([[0,0],[0,ridge_Y],[ridge_X+.000505-notch_taper,ridge_Y],[ridge_X+.000505,0]]);
-			
 		translate([sheet_A,width])
-
 			polygon([[0,0],[+notch_taper,notch_y],[notch_x+.000505,0]]);
 }
+
+//Female end
 module Snap1B(width=10,thick=1.5, sheet_A=2.66, cut_y=1.2,cut_x=2,cut_t=.1){	
 	translate([-thick-cut_x,-thick])
 	difference(){
@@ -72,4 +85,7 @@ module Snap1B(width=10,thick=1.5, sheet_A=2.66, cut_y=1.2,cut_x=2,cut_t=.1){
 
 }
 
- Snap1B();
+//Example calls:
+
+//Snap1B(length=20);
+Snap1A(length=30);
